@@ -1,7 +1,7 @@
 tcg-demo
 ========
 
-Tag Cloud Generator created in 2012-2013 by Xia Cui, written in Java and JSP,
+Tag Cloud Generator created in 2012-2013, written in Java and JSP,
 
 Basically allows several types of single or two files tag cloud generation on a web interface,
 
