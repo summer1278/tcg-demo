@@ -1,11 +1,9 @@
 tcg-demo
 ========
 
-Tag Cloud Generator created in 2012-2013
+Tag Cloud Generator created in 2012-2013, wirtten in Java
 
 for my undergradate final year project
 
-in University of Liverpool
-
-supervised by Russell Martin
+supervised by Russell Martin, University of Liverpool
 
