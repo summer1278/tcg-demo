@@ -1,7 +1,7 @@
 tcg-demo
 ========
 
-Tag Cloud generator created in 2013
+Tag Cloud Generator created in 2012-2013
 
 for my undergradate final year project
 
