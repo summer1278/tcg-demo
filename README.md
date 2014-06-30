@@ -3,7 +3,7 @@ tcg-demo
 
 Tag Cloud Generator created in 2012-2013, written in Java and JSP
 
-for my undergradate final year project
+It's a final year project, for my undergraduate degree "BSc Internet Computing"
 
-supervised by Russell Martin, University of Liverpool
+Supervised by Russell Martin, University of Liverpool
 
